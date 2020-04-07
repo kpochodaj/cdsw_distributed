@@ -12,23 +12,28 @@ Open code/credit-scikit-learn.py.
 
 The code shows a common steps required to build and evaluate machine learning models.
 
-Analyse steps. 
+Analyse steps.
 
 Run the code.
 
+Stop the session.
+
 ### 2 Spark
+Start new session with 8GB RAM!
 Open code/credit-spark.py.
 The code shows how the same logic in Spark.
 
 Analyse the code and identify differences.
 
 Run the code.
+Stop the session.
 
 ### 3 Dask
+Star new session.
+
 Open code/credit-dask.py
 The code shows how to use Dask to distribute grid search for sklearn.
 
 Analyse the code and identify differences.
 
 Run the code.
-
